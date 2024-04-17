@@ -1,0 +1,9 @@
+
+java NoOfWays -target "" -wordbank purp p ur le purpl  
+java NoOfWays -target purple -wordbank
+java NoOfWays -target -wordbank purp p ur le purpl
+java NoOfWays -target "purple rain" -wordbank purple rain
+java NoOfWays -target purple -wordbank blue green yellow
+java NoOfWays -target PURPLE -wordbank purp le
+java NoOfWays -target purple -wordbank pu rp ur ple le pur
+java NoOfWays -target purp@e -wordbank purp e
